@@ -4,7 +4,7 @@ Linkedin Learning Courses Downloader is a simple python scraper tool that downlo
 First install the requirements:
 
 pip install -r requirements.txt
-In the config.py file, write your login info and fill the COURSES array with the slug of the the courses you want to download, 
+In the # config.py file, write your login info and fill the COURSES array with the slug of the the courses you want to download, 
 # Example
 
 USERNAME = 'user@email.com'
